@@ -1,7 +1,7 @@
-package com.vvvtimes.server;
+package com.tools.jrebel.server;
 
-import com.vvvtimes.JrebelUtil.JrebelSign;
-import com.vvvtimes.util.rsasign;
+import com.tools.jrebel.JrebelUtil.JrebelSign;
+import com.tools.jrebel.util.rsasign;
 import net.sf.json.JSONObject;
 
 import java.io.IOException;

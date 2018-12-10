@@ -1,4 +1,4 @@
-package com.vvvtimes.util;
+package com.tools.jrebel.util;
 
 import org.bouncycastle.asn1.ASN1InputStream;
 import org.bouncycastle.asn1.ASN1Primitive;

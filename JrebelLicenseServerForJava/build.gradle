@@ -16,7 +16,7 @@ tasks.withType(JavaCompile) {
     options.encoding = 'UTF-8'
 }
 
-mainClassName = 'com.vvvtimes.server.MainServer'
+mainClassName = 'MainServer'
 
 jar {
     manifest {

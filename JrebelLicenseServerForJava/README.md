@@ -12,7 +12,7 @@ Run:
 ```
 cd /path/to/project
 mvn compile 
-mvn exec:java -Dexec.mainClass="com.vvvtimes.server.MainServer" -Dexec.args="-p 8081"
+mvn exec:java -Dexec.mainClass="MainServer" -Dexec.args="-p 8081"
 ```
 Packing a runnable jar:
 ```
